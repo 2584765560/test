@@ -1,4 +1,7 @@
 # test
-123
-456
-789
+linux
+python
+nginx
+mysql
+tomcat
+php-fpm
